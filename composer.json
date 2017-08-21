@@ -1,5 +1,5 @@
 {
-    "name": "vendon/yii-pdf",
+    "name": "vendon-net/yii-pdf",
     "description": "Yii-wrapper for PHP-PDF libraries (mPDF, HTML2PDF)",
     "authors": [
         {
